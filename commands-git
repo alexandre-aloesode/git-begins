@@ -10,4 +10,10 @@
 	git commit -m "commentaire" 'nom du fichier'
 	git push
 	
+3) La commande pull
+
+	Si on choisit d'effectuer des modifications directement depuis GitHub, on peut récupérer ces modifs sur notre machine avec la commande pull
+	(Penser via le terminal à se mettre dans le dossier concerné)
+	git pull
+	Renseigner son identifiant et mot de passe
 	
