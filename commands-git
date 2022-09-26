@@ -1,0 +1,13 @@
+1) Comment cloner un repositery
+
+	-Si vous créez votre repositery via le site de GitHub, ce dernier vous proposera après la création une URL renvoyant à votre repository. Il suffira donc, dans le terminal de commande, de taper:
+	git clone 'URL'
+	-Renseignez ensuite comme demandé votre nom d'utilisateur et votre mot de passe.
+
+2) Les 3 commandes de push
+
+	git add 'nom du fichier'
+	git commit -m "commentaire" 'nom du fichier'
+	git push
+	
+	
