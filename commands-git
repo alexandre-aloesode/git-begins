@@ -1,0 +1,26 @@
+1) Comment cloner un repositery
+
+	-Si vous créez votre repositery via le site de GitHub, ce dernier vous proposera après la création une URL renvoyant à votre repository. Il suffira donc, dans le terminal de commande, de taper:
+	git clone 'URL'
+	-Renseignez ensuite comme demandé votre nom d'utilisateur et votre mot de passe.
+
+2) Les 3 commandes de push
+
+	git add 'nom du fichier'
+	git commit -m "commentaire" 'nom du fichier'
+	git push
+	
+3) La commande pull
+
+	Si on choisit d'effectuer des modifications directement depuis GitHub, on peut récupérer ces modifs sur notre machine avec la commande pull
+	(Penser via le terminal à se mettre dans le dossier concerné)
+	git pull
+	
+4) Les branches
+
+	Pour créer une branche via le terminal, se positionner dans le dossier racine du repo, et taper la commande suivante
+		git branch "nom-de-la-branche"
+
+	Pour changer de branche, taper la commande suivante
+		git checkout "nom-de-la-branche-sur-laquelle-on-souhaite-basculer"
+
