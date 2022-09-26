@@ -16,3 +16,11 @@
 	(Penser via le terminal à se mettre dans le dossier concerné)
 	git pull
 	
+4) Les branches
+
+	Pour créer une branche via le terminal, se positionner dans le dossier racine du repo, et taper la commande suivante
+		git branch "nom-de-la-branche"
+
+	Pour changer de branche, taper la commande suivante
+		git checkout "nom-de-la-branche-sur-laquelle-on-souhaite-basculer"
+
